@@ -14,6 +14,9 @@ fastapi = "*"
 sqlalchemy = "*"
 typing-extensions = "*"
 uvicorn = {extras = ["standard"], version = "*"}
+requests = "*"
+datetime = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3"
